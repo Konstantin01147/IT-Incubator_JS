@@ -2,7 +2,7 @@ function alphabetPosition(text) {
 //   if(text.length==0){
 //     return '1';
 //   }
-    text.toLowerCase();
+    text = text.toLowerCase();
     var output = "";
     var i=0;
     while(i< text.length){
@@ -90,8 +90,9 @@ function alphabetPosition(text) {
         }
         i++;
     }
-    output.trimEnd();
+    console.log(output);
+    output = output.slice(0, -1);
+    console.log(output);
+
     return output;
 }
-var comeString = alphabetPosition("The sunset sets at twelve o' clock.");
-console.log(comeString);
