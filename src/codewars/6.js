@@ -6,6 +6,9 @@ function highAndLow(numbers){
         if(arrNum[i]<min){
             min=arrNum[i];
         }
+
+    }
+    for(var i=0;i<arrNum.length;i++){
         if(arrNum[i]>max){
             max=arrNum[i];
         }
