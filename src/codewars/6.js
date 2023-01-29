@@ -3,7 +3,7 @@ function highAndLow(numbers){
     var buf = numbers.split(" ");
     var arrNum = [];
     for(var i=0;i<buf.length;i++){
-        arrNum.unshift(Number.valueOf(buf[i]));
+        arrNum.unshift(parseInt(buf[i]));
     }
     var max = arrNum[0];
     var min = arrNum[0];
