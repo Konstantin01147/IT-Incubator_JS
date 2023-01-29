@@ -1,5 +1,5 @@
 function highAndLow(numbers){
-    var arrNum = numbers.split(" ");
+    var arrNum = Number.valueOf(numbers.split(" "));
     var max = arrNum[0];
     var min = arrNum[0];
     for(var i=0;i<arrNum.length;i++){
