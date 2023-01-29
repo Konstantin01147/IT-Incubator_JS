@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="394a5de3-2872-4ba5-bc07-702b6a5a2496" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codewars/7.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codewars/7.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/codewars/7.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/codewars/7.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <caret line="7" column="18" selection-end-line="8" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -112,7 +112,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675004252026" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1675004576417" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -144,7 +144,7 @@
       <workItem from="1674742179722" duration="1952000" />
       <workItem from="1674840753723" duration="658000" />
       <workItem from="1674909366521" duration="3896000" />
-      <workItem from="1674997580135" duration="3492000" />
+      <workItem from="1674997580135" duration="3786000" />
     </task>
     <task id="LOCAL-00001" summary="Commit1">
       <created>1674590891470</created>
@@ -307,11 +307,18 @@
       <option name="project" value="LOCAL" />
       <updated>1675000264466</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Commit7">
+      <created>1675004288432</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675004288432</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13539000" />
+    <option name="totallyTimeSpent" value="13833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -358,7 +365,8 @@
     <MESSAGE value="Commit4" />
     <MESSAGE value="Commit5" />
     <MESSAGE value="Commit6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit6" />
+    <MESSAGE value="Commit7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/codewars/1.js">
@@ -422,7 +430,7 @@
     <entry file="file://$PROJECT_DIR$/src/codewars/7.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <caret line="7" column="18" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
