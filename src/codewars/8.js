@@ -5,4 +5,5 @@ function arrayDiff(a, b) {
             i--;
         }
     }
+    return a;
 }
