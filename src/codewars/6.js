@@ -1,12 +1,13 @@
 function highAndLow(numbers){
+    var arrNum = numbers.split(" ");
     var max = 0;
     var min = 0;
-    for(var i=0;i<numbers.length;i++){
-        if(numbers[i]<min){
-            min=numbers[i];
+    for(var i=0;i<arrNum.length;i++){
+        if(arrNum[i]<min){
+            min=arrNum[i];
         }
-        if(numbers[i]>max){
-            max=numbers[i];
+        if(arrNum[i]>max){
+            max=arrNum[i];
         }
     }
     return ""+max+" "+min;
