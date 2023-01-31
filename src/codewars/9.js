@@ -1,3 +1,5 @@
 var countBits = function(n) {
-    // Program Me
+    var bitsArr = (n%2).toString();
+    console.log(bitsArr);
+
 };
